@@ -1,6 +1,6 @@
 def my_hash
-  new_hash = ["hi" => "this is a hash"]
-
+  new_hash = ["hi" => "this is a hash", "other key" => "other value"]
+  new_hash
   
 end
 
